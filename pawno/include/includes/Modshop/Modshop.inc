@@ -1,0 +1,5 @@
+#include "../include/includes/Modshop/core.pwn"
+#include "../include/includes/Modshop/function.pwn"
+#include "../include/includes/Modshop/callback.pwn"
+#include "../include/includes/Modshop/cmd.pwn"
+#include "../include/includes/Modshop/dialog.pwn"

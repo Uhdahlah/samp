@@ -1,0 +1,1843 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:18:16] 
+[19:18:16] Server Plugins
+[19:18:16] --------------
+[19:18:16]  Loading plugin: crashdetect
+[19:18:16]   CrashDetect plugin 4.19.4
+[19:18:16]   Loaded.
+[19:18:16]  Loading plugin: CRP
+[19:18:16]   Failed.
+[19:18:16]  Loading plugin: mysql
+[19:18:16]  >> plugin.mysql: R41-4 successfully loaded.
+[19:18:16]   Loaded.
+[19:18:16]  Loading plugin: sscanf
+[19:18:16] 
+
+[19:18:16]  ===============================
+
+[19:18:16]       sscanf plugin loaded.     
+
+[19:18:16]          Version:  2.8.3        
+
+[19:18:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:18:16]  ===============================
+
+[19:18:16]   Loaded.
+[19:18:16]  Loading plugin: streamer
+[19:18:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:18:16]   Loaded.
+[19:18:16]  Loading plugin: CTime
+[19:18:16]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[19:18:16]   Loaded.
+[19:18:16]  Loading plugin: pawncmd
+[19:18:16] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[19:18:16]   Loaded.
+[19:18:16]  Loading plugin: gvar
+[19:18:16] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[19:18:16]   Loaded.
+[19:18:16]  Loading plugin: ColAndreas
+[19:18:16] *********************
+[19:18:16] ** Created By:     **
+[19:18:16] ** [uL]Chris42O    **
+[19:18:16] ** [uL]Slice       **
+[19:18:16] ** [uL]Pottus      **
+[19:18:16] *********************
+[19:18:16] No collision data found.
+[19:18:16] *********************
+[19:18:16]   ColAndreas Loaded
+[19:18:16]    v1.4.0
+[19:18:16] *********************
+[19:18:16]   Loaded.
+[19:18:16]  Loading plugin: timerfix
+[19:18:16]   >> TimerFix v1.7 successfully loaded.
+[19:18:16]   Loaded.
+[19:18:16]  Loading plugin: samp-compat
+[19:18:16]   -- samp-compat for 0.3.7-R2 initialized
+[19:18:16]   Loaded.
+[19:18:16]  Loading plugin: discord-connector
+[19:18:18]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[19:18:18]   Loaded.
+[19:18:18]  Loaded 11 plugins.
+
+[19:18:18] 
+[19:18:18] Ban list
+[19:18:18] --------
+[19:18:18]  Loaded: samp.ban
+[19:18:18] 
+[19:18:18] 
+[19:18:18] Filterscripts
+[19:18:18] ---------------
+[19:18:18]   Loading filterscript 'Buttons.amx'...
+[19:18:18]   Loaded 1 filterscripts.
+
+[19:18:19]  
+[19:18:19]  
+[19:18:19]  
+[19:18:19]  ======================================= 
+[19:18:19]  |                                     | 
+[19:18:19]  |        YSI version 4.00.0001        | 
+[19:18:19]  |        By Alex "Y_Less" Cole        | 
+[19:18:19]  |                                     | 
+[19:18:19]  ======================================= 
+[19:18:19]  
+[19:18:24] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[19:18:24] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[19:18:27] MySQL connection is successful.
+[19:18:27] weburl = "www.sa-mp.com"  (string)
+[19:18:27] [Object] Number of Dynamic objects loaded: 9343
+[19:18:27] [plugin.timerfix] Anti-DDoS: Function was not found.
+[19:18:27] Number of vehicle models: 26
+[19:18:27] *** [Database: Loaded] Door data (28 count).
+[19:18:27] *** [Database: Loaded] family data (1 count).
+[19:18:28] *** [Database: Loaded] house data (218 count).
+[19:18:28] *** [Database: Loaded] bisnis data (25 count).
+[19:18:28] *** [Database: Loaded] gas station data (4 count).
+[19:18:29] *** [Database: Loaded] actor data (1 count).
+[19:18:29] *** [Database: Loaded] ATM data (9 count).
+[19:18:29] *** [Database: Loaded] Gate data (1 count).
+[19:18:29] *** [Database: Loaded] tree data (12 count).
+[19:18:30] *** [Database: Loaded] dealership data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:34:47] 
+[05:34:47] Server Plugins
+[05:34:47] --------------
+[05:34:47]  Loading plugin: crashdetect
+[05:34:47]   CrashDetect plugin 4.19.4
+[05:34:47]   Loaded.
+[05:34:47]  Loading plugin: gvar
+[05:34:47] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[05:34:47]   Loaded.
+[05:34:47]  Loading plugin: pawncmd
+[05:34:47] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[05:34:47]   Loaded.
+[05:34:47]  Loading plugin: streamer
+[05:34:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[05:34:47]   Loaded.
+[05:34:47]  Loading plugin: timerfix
+[05:34:47]   >> TimerFix v1.5 successfully loaded.
+[05:34:47]   Loaded.
+[05:34:47]  Loading plugin: sscanf
+[05:34:47] 
+
+[05:34:47]  ===============================
+
+[05:34:47]       sscanf plugin loaded.     
+
+[05:34:47]          Version:  2.8.3        
+
+[05:34:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:34:47]  ===============================
+
+[05:34:47]   Loaded.
+[05:34:47]  Loading plugin: mysql
+[05:34:47]  >> plugin.mysql: R41-4 successfully loaded.
+[05:34:47]   Loaded.
+[05:34:47]  Loading plugin: samp-compat
+[05:34:47]   -- samp-compat for 0.3.7-R2 initialized
+[05:34:47]   Loaded.
+[05:34:47]  Loading plugin: CTime
+[05:34:47]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[05:34:47]   Loaded.
+[05:34:47]  Loading plugin: discord-connector
+[05:34:49]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[05:34:49]   Loaded.
+[05:34:49]  Loaded 10 plugins.
+
+[05:34:49] 
+[05:34:49] Ban list
+[05:34:49] --------
+[05:34:49]  Loaded: samp.ban
+[05:34:49] 
+[05:34:49] 
+[05:34:49] Filterscripts
+[05:34:49] ---------------
+[05:34:49]   Loading filterscript 'Buttons.amx'...
+[05:34:49]   Loaded 1 filterscripts.
+
+[05:34:50] [debug] Run time error 19: "File or function is not found"
+[05:34:50] [debug]  IsValidTimer
+[05:34:50] [debug] Run time error 19: "File or function is not found"
+[05:34:50] [debug]  IsValidTimer
+[05:34:50] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[05:34:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:35:25] 
+[05:35:25] Server Plugins
+[05:35:25] --------------
+[05:35:25]  Loading plugin: crashdetect
+[05:35:25]   CrashDetect plugin 4.19.4
+[05:35:25]   Loaded.
+[05:35:25]  Loading plugin: gvar
+[05:35:25] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[05:35:25]   Loaded.
+[05:35:25]  Loading plugin: pawncmd
+[05:35:25] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[05:35:25]   Loaded.
+[05:35:25]  Loading plugin: streamer
+[05:35:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[05:35:25]   Loaded.
+[05:35:25]  Loading plugin: timerfix
+[05:35:25]   >> TimerFix v1.7 successfully loaded.
+[05:35:25]   Loaded.
+[05:35:25]  Loading plugin: sscanf
+[05:35:25] 
+
+[05:35:25]  ===============================
+
+[05:35:25]       sscanf plugin loaded.     
+
+[05:35:25]          Version:  2.8.3        
+
+[05:35:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:35:25]  ===============================
+
+[05:35:25]   Loaded.
+[05:35:25]  Loading plugin: mysql
+[05:35:25]  >> plugin.mysql: R41-4 successfully loaded.
+[05:35:25]   Loaded.
+[05:35:25]  Loading plugin: samp-compat
+[05:35:25]   -- samp-compat for 0.3.7-R2 initialized
+[05:35:25]   Loaded.
+[05:35:25]  Loading plugin: CTime
+[05:35:25]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[05:35:25]   Loaded.
+[05:35:25]  Loading plugin: discord-connector
+[05:35:27]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[05:35:27]   Loaded.
+[05:35:27]  Loaded 10 plugins.
+
+[05:35:27] 
+[05:35:27] Ban list
+[05:35:27] --------
+[05:35:27]  Loaded: samp.ban
+[05:35:27] 
+[05:35:27] 
+[05:35:27] Filterscripts
+[05:35:27] ---------------
+[05:35:27]   Loading filterscript 'Buttons.amx'...
+[05:35:27]   Loaded 1 filterscripts.
+
+[05:35:28]  
+[05:35:28]  
+[05:35:28]  
+[05:35:28]  ======================================= 
+[05:35:28]  |                                     | 
+[05:35:28]  |        YSI version 4.00.0001        | 
+[05:35:28]  |        By Alex "Y_Less" Cole        | 
+[05:35:28]  |                                     | 
+[05:35:28]  ======================================= 
+[05:35:28]  
+[05:35:34] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[05:35:34] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[05:35:36] MySQL connection is successful.
+[05:35:36] weburl = "www.sa-mp.com"  (string)
+[05:35:36] [Object] Number of Dynamic objects loaded: 9343
+[05:35:36] [plugin.timerfix] Anti-DDoS: Function was not found.
+[05:35:36] Number of vehicle models: 26
+[05:35:37] *** [Database: Loaded] Door data (28 count).
+[05:35:37] *** [Database: Loaded] family data (1 count).
+[05:35:38] *** [Database: Loaded] house data (218 count).
+[05:35:38] *** [Database: Loaded] bisnis data (25 count).
+[05:35:38] *** [Database: Loaded] gas station data (4 count).
+[05:35:38] *** [Database: Loaded] actor data (1 count).
+[05:35:38] *** [Database: Loaded] ATM data (9 count).
+[05:35:39] *** [Database: Loaded] Gate data (1 count).
+[05:35:39] *** [Database: Loaded] tree data (12 count).
+[05:35:40] *** [Database: Loaded] dealership data (1 count).
+[05:35:40] *** [Database: Loaded] rent data (1 count).
+[05:35:40] *** [Database: Loaded] garage data (1 count).
+[05:35:40] *** [Database: Loaded] object data (0 count).
+[05:35:41] *** [Database: Loaded] furnstore data (4 count).
+[05:35:41] *** [Database: Loaded] furnobject data (98 count).
+[05:35:41] *** [Database: Loaded] flat data loaded (57 count)
+[05:35:42] *** [Database: Loaded] flat room data loaded (880 count)
+[05:35:42] *** [Database: Loaded] GYM Machine data (0 count).
+[05:35:42] *** [Database: Loaded] GYM data (1 count).
+[05:36:21] [connection] 192.168.18.13:56948 requests connection cookie.
+[05:36:22] [connection] incoming connection: 192.168.18.13:56948 id: 0
+[05:36:23] [join] Hakim077 has joined the server (0:192.168.18.13)
+[05:38:12] [part] Hakim077 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[05:59:30] 
+[05:59:30] Server Plugins
+[05:59:30] --------------
+[05:59:30]  Loading plugin: crashdetect
+[05:59:30]   CrashDetect plugin 4.19.4
+[05:59:30]   Loaded.
+[05:59:30]  Loading plugin: gvar
+[05:59:30] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[05:59:30]   Loaded.
+[05:59:30]  Loading plugin: pawncmd
+[05:59:30] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[05:59:30]   Loaded.
+[05:59:30]  Loading plugin: streamer
+[05:59:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[05:59:30]   Loaded.
+[05:59:30]  Loading plugin: timerfix
+[05:59:30]   >> TimerFix v1.7 successfully loaded.
+[05:59:30]   Loaded.
+[05:59:30]  Loading plugin: sscanf
+[05:59:30] 
+
+[05:59:30]  ===============================
+
+[05:59:30]       sscanf plugin loaded.     
+
+[05:59:30]          Version:  2.8.3        
+
+[05:59:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[05:59:30]  ===============================
+
+[05:59:30]   Loaded.
+[05:59:30]  Loading plugin: mysql
+[05:59:30]  >> plugin.mysql: R41-4 successfully loaded.
+[05:59:30]   Loaded.
+[05:59:30]  Loading plugin: samp-compat
+[05:59:30]   -- samp-compat for 0.3.7-R2 initialized
+[05:59:30]   Loaded.
+[05:59:30]  Loading plugin: CTime
+[05:59:30]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[05:59:30]   Loaded.
+[05:59:30]  Loading plugin: discord-connector
+[05:59:32]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[05:59:32]   Loaded.
+[05:59:32]  Loaded 10 plugins.
+
+[05:59:32] 
+[05:59:32] Ban list
+[05:59:32] --------
+[05:59:32]  Loaded: samp.ban
+[05:59:32] 
+[05:59:32] 
+[05:59:32] Filterscripts
+[05:59:32] ---------------
+[05:59:32]   Loading filterscript 'Buttons.amx'...
+[05:59:32]   Loaded 1 filterscripts.
+
+[05:59:33]  
+[05:59:33]  
+[05:59:33]  
+[05:59:33]  ======================================= 
+[05:59:33]  |                                     | 
+[05:59:33]  |        YSI version 4.00.0001        | 
+[05:59:33]  |        By Alex "Y_Less" Cole        | 
+[05:59:33]  |                                     | 
+[05:59:33]  ======================================= 
+[05:59:33]  
+[05:59:38] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[05:59:38] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[05:59:38] MySQL connection is successful.
+[05:59:38] weburl = "www.sa-mp.com"  (string)
+[05:59:38] [Object] Number of Dynamic objects loaded: 9343
+[05:59:38] [plugin.timerfix] Anti-DDoS: Function was not found.
+[05:59:38] Number of vehicle models: 26
+[05:59:38] *** [Database: Loaded] Door data (28 count).
+[05:59:38] *** [Database: Loaded] family data (1 count).
+[05:59:39] *** [Database: Loaded] house data (218 count).
+[05:59:39] *** [Database: Loaded] bisnis data (25 count).
+[05:59:39] *** [Database: Loaded] gas station data (4 count).
+[05:59:39] *** [Database: Loaded] actor data (1 count).
+[05:59:39] *** [Database: Loaded] ATM data (9 count).
+[05:59:39] *** [Database: Loaded] Gate data (1 count).
+[05:59:39] *** [Database: Loaded] tree data (12 count).
+[05:59:39] *** [Database: Loaded] dealership data (1 count).
+[05:59:39] *** [Database: Loaded] rent data (1 count).
+[05:59:39] *** [Database: Loaded] garage data (1 count).
+[05:59:39] *** [Database: Loaded] object data (0 count).
+[05:59:39] *** [Database: Loaded] furnstore data (4 count).
+[05:59:39] *** [Database: Loaded] furnobject data (98 count).
+[05:59:39] *** [Database: Loaded] flat data loaded (57 count)
+[05:59:39] *** [Database: Loaded] flat room data loaded (880 count)
+[05:59:39] *** [Database: Loaded] GYM Machine data (0 count).
+[05:59:39] *** [Database: Loaded] GYM data (1 count).
+[06:00:14] [connection] 192.168.18.13:64232 requests connection cookie.
+[06:00:15] [connection] incoming connection: 192.168.18.13:64232 id: 0
+[06:00:15] [join] Hakim077 has joined the server (0:192.168.18.13)
+[06:00:50] [P_VEHICLE] Loaded player vehicle from: Kyle_Garrick(0)
+[06:00:56] [part] Kyle_Garrick has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:56:29] 
+[10:56:29] Server Plugins
+[10:56:29] --------------
+[10:56:29]  Loading plugin: crashdetect
+[10:56:29]   CrashDetect plugin 4.19.4
+[10:56:29]   Loaded.
+[10:56:29]  Loading plugin: gvar
+[10:56:29] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[10:56:29]   Loaded.
+[10:56:29]  Loading plugin: pawncmd
+[10:56:29] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[10:56:29]   Loaded.
+[10:56:29]  Loading plugin: streamer
+[10:56:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:56:29]   Loaded.
+[10:56:29]  Loading plugin: timerfix
+[10:56:29]   >> TimerFix v1.7 successfully loaded.
+[10:56:29]   Loaded.
+[10:56:29]  Loading plugin: sscanf
+[10:56:29] 
+
+[10:56:29]  ===============================
+
+[10:56:29]       sscanf plugin loaded.     
+
+[10:56:29]          Version:  2.8.3        
+
+[10:56:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:56:29]  ===============================
+
+[10:56:29]   Loaded.
+[10:56:29]  Loading plugin: mysql
+[10:56:29]  >> plugin.mysql: R41-4 successfully loaded.
+[10:56:29]   Loaded.
+[10:56:29]  Loading plugin: samp-compat
+[10:56:29]   -- samp-compat for 0.3.7-R2 initialized
+[10:56:29]   Loaded.
+[10:56:29]  Loading plugin: CTime
+[10:56:29]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[10:56:29]   Loaded.
+[10:56:29]  Loading plugin: discord-connector
+[10:56:31]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[10:56:31]   Loaded.
+[10:56:31]  Loaded 10 plugins.
+
+[10:56:31] 
+[10:56:31] Ban list
+[10:56:31] --------
+[10:56:31]  Loaded: samp.ban
+[10:56:31] 
+[10:56:31] 
+[10:56:31] Filterscripts
+[10:56:31] ---------------
+[10:56:31]   Loading filterscript 'Buttons.amx'...
+[10:56:31]   Loaded 1 filterscripts.
+
+[10:56:34]  
+[10:56:34]  
+[10:56:34]  
+[10:56:34]  ======================================= 
+[10:56:34]  |                                     | 
+[10:56:34]  |        YSI version 4.00.0001        | 
+[10:56:34]  |        By Alex "Y_Less" Cole        | 
+[10:56:34]  |                                     | 
+[10:56:34]  ======================================= 
+[10:56:34]  
+[10:56:41] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[10:56:41] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[10:56:42] MySQL connection is successful.
+[10:56:42] weburl = "www.sa-mp.com"  (string)
+[10:56:42] [Object] Number of Dynamic objects loaded: 9343
+[10:56:42] [plugin.timerfix] Anti-DDoS: Function was not found.
+[10:56:42] Number of vehicle models: 26
+[10:56:42] *** [Database: Loaded] Door data (28 count).
+[10:56:42] *** [Database: Loaded] family data (1 count).
+[10:56:42] *** [Database: Loaded] house data (218 count).
+[10:56:42] *** [Database: Loaded] bisnis data (25 count).
+[10:56:42] *** [Database: Loaded] gas station data (4 count).
+[10:56:42] *** [Database: Loaded] actor data (1 count).
+[10:56:42] *** [Database: Loaded] ATM data (9 count).
+[10:56:42] *** [Database: Loaded] Gate data (1 count).
+[10:56:42] *** [Database: Loaded] tree data (12 count).
+[10:56:42] *** [Database: Loaded] dealership data (1 count).
+[10:56:42] *** [Database: Loaded] rent data (1 count).
+[10:56:42] *** [Database: Loaded] garage data (1 count).
+[10:56:42] *** [Database: Loaded] object data (0 count).
+[10:56:42] *** [Database: Loaded] furnstore data (4 count).
+[10:56:42] *** [Database: Loaded] furnobject data (98 count).
+[10:56:42] *** [Database: Loaded] flat data loaded (57 count)
+[10:56:43] *** [Database: Loaded] flat room data loaded (880 count)
+[10:56:43] *** [Database: Loaded] GYM Machine data (0 count).
+[10:56:43] *** [Database: Loaded] GYM data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:22:40] 
+[11:22:40] Server Plugins
+[11:22:40] --------------
+[11:22:40]  Loading plugin: crashdetect
+[11:22:40]   CrashDetect plugin 4.19.4
+[11:22:40]   Loaded.
+[11:22:40]  Loading plugin: gvar
+[11:22:40] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[11:22:40]   Loaded.
+[11:22:40]  Loading plugin: pawncmd
+[11:22:40] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[11:22:40]   Loaded.
+[11:22:40]  Loading plugin: streamer
+[11:22:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:22:40]   Loaded.
+[11:22:40]  Loading plugin: timerfix
+[11:22:40]   >> TimerFix v1.7 successfully loaded.
+[11:22:40]   Loaded.
+[11:22:40]  Loading plugin: sscanf
+[11:22:40] 
+
+[11:22:40]  ===============================
+
+[11:22:40]       sscanf plugin loaded.     
+
+[11:22:40]          Version:  2.8.3        
+
+[11:22:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:22:40]  ===============================
+
+[11:22:40]   Loaded.
+[11:22:40]  Loading plugin: mysql
+[11:22:40]  >> plugin.mysql: R41-4 successfully loaded.
+[11:22:40]   Loaded.
+[11:22:40]  Loading plugin: samp-compat
+[11:22:40]   -- samp-compat for 0.3.7-R2 initialized
+[11:22:40]   Loaded.
+[11:22:40]  Loading plugin: CTime
+[11:22:40]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[11:22:40]   Loaded.
+[11:22:40]  Loading plugin: discord-connector
+[11:22:46]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[11:22:46]   Loaded.
+[11:22:46]  Loaded 10 plugins.
+
+[11:22:46] 
+[11:22:46] Ban list
+[11:22:46] --------
+[11:22:46]  Loaded: samp.ban
+[11:22:46] 
+[11:22:46] 
+[11:22:46] Filterscripts
+[11:22:46] ---------------
+[11:22:46]   Loading filterscript 'Buttons.amx'...
+[11:22:46]   Loaded 1 filterscripts.
+
+[11:22:47]  
+[11:22:47]  
+[11:22:47]  
+[11:22:47]  ======================================= 
+[11:22:47]  |                                     | 
+[11:22:47]  |        YSI version 4.00.0001        | 
+[11:22:47]  |        By Alex "Y_Less" Cole        | 
+[11:22:47]  |                                     | 
+[11:22:47]  ======================================= 
+[11:22:47]  
+[11:22:54] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[11:22:54] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[11:22:57] MySQL connection is successful.
+[11:22:57] weburl = "www.sa-mp.com"  (string)
+[11:22:57] [Object] Number of Dynamic objects loaded: 9343
+[11:22:57] [plugin.timerfix] Anti-DDoS: Function was not found.
+[11:22:57] Number of vehicle models: 26
+[11:22:57] *** [Database: Loaded] Door data (28 count).
+[11:22:57] *** [Database: Loaded] family data (1 count).
+[11:22:58] *** [Database: Loaded] house data (218 count).
+[11:22:58] *** [Database: Loaded] bisnis data (25 count).
+[11:22:58] *** [Database: Loaded] gas station data (4 count).
+[11:22:59] *** [Database: Loaded] actor data (1 count).
+[11:22:59] *** [Database: Loaded] ATM data (9 count).
+[11:22:59] *** [Database: Loaded] Gate data (1 count).
+[11:22:59] *** [Database: Loaded] tree data (12 count).
+[11:23:00] *** [Database: Loaded] dealership data (1 count).
+[11:23:00] *** [Database: Loaded] rent data (1 count).
+[11:23:00] *** [Database: Loaded] garage data (1 count).
+[11:23:01] *** [Database: Loaded] object data (0 count).
+[11:23:01] *** [Database: Loaded] furnstore data (4 count).
+[11:23:01] *** [Database: Loaded] furnobject data (98 count).
+[11:23:01] *** [Database: Loaded] flat data loaded (57 count)
+[11:23:02] *** [Database: Loaded] flat room data loaded (880 count)
+[11:23:02] *** [Database: Loaded] GYM Machine data (0 count).
+[11:23:03] *** [Database: Loaded] GYM data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:24:14] 
+[11:24:14] Server Plugins
+[11:24:14] --------------
+[11:24:14]  Loading plugin: crashdetect
+[11:24:14]   CrashDetect plugin 4.19.4
+[11:24:14]   Loaded.
+[11:24:14]  Loading plugin: gvar
+[11:24:14] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[11:24:14]   Loaded.
+[11:24:14]  Loading plugin: pawncmd
+[11:24:14] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[11:24:14]   Loaded.
+[11:24:14]  Loading plugin: streamer
+[11:24:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:24:14]   Loaded.
+[11:24:14]  Loading plugin: timerfix
+[11:24:14]   >> TimerFix v1.7 successfully loaded.
+[11:24:14]   Loaded.
+[11:24:14]  Loading plugin: sscanf
+[11:24:14] 
+
+[11:24:14]  ===============================
+
+[11:24:14]       sscanf plugin loaded.     
+
+[11:24:14]          Version:  2.8.3        
+
+[11:24:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:24:14]  ===============================
+
+[11:24:14]   Loaded.
+[11:24:14]  Loading plugin: mysql
+[11:24:14]  >> plugin.mysql: R41-4 successfully loaded.
+[11:24:14]   Loaded.
+[11:24:14]  Loading plugin: samp-compat
+[11:24:14]   -- samp-compat for 0.3.7-R2 initialized
+[11:24:14]   Loaded.
+[11:24:14]  Loading plugin: CTime
+[11:24:14]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[11:24:14]   Loaded.
+[11:24:14]  Loading plugin: discord-connector
+[11:24:16]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[11:24:16]   Loaded.
+[11:24:16]  Loaded 10 plugins.
+
+[11:24:16] 
+[11:24:16] Ban list
+[11:24:16] --------
+[11:24:16]  Loaded: samp.ban
+[11:24:16] 
+[11:24:16] 
+[11:24:16] Filterscripts
+[11:24:16] ---------------
+[11:24:16]   Loading filterscript 'Buttons.amx'...
+[11:24:16]   Loaded 1 filterscripts.
+
+[11:24:17]  
+[11:24:17]  
+[11:24:17]  
+[11:24:17]  ======================================= 
+[11:24:17]  |                                     | 
+[11:24:17]  |        YSI version 4.00.0001        | 
+[11:24:17]  |        By Alex "Y_Less" Cole        | 
+[11:24:17]  |                                     | 
+[11:24:17]  ======================================= 
+[11:24:17]  
+[11:24:24] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[11:24:24] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[11:24:27] MySQL connection is successful.
+[11:24:27] weburl = "www.sa-mp.com"  (string)
+[11:24:27] [Object] Number of Dynamic objects loaded: 9343
+[11:24:27] [plugin.timerfix] Anti-DDoS: Function was not found.
+[11:24:27] Number of vehicle models: 26
+[11:24:27] *** [Database: Loaded] Door data (28 count).
+[11:24:27] *** [Database: Loaded] family data (1 count).
+[11:24:28] *** [Database: Loaded] house data (218 count).
+[11:24:28] *** [Database: Loaded] bisnis data (25 count).
+[11:24:28] *** [Database: Loaded] gas station data (4 count).
+[11:24:29] *** [Database: Loaded] actor data (1 count).
+[11:24:29] *** [Database: Loaded] ATM data (9 count).
+[11:24:29] *** [Database: Loaded] Gate data (1 count).
+[11:24:29] *** [Database: Loaded] tree data (12 count).
+[11:24:30] *** [Database: Loaded] dealership data (1 count).
+[11:24:30] *** [Database: Loaded] rent data (1 count).
+[11:24:30] *** [Database: Loaded] garage data (1 count).
+[11:24:31] *** [Database: Loaded] object data (0 count).
+[11:24:31] *** [Database: Loaded] furnstore data (4 count).
+[11:24:31] *** [Database: Loaded] furnobject data (98 count).
+[11:24:31] *** [Database: Loaded] flat data loaded (57 count)
+[11:24:33] *** [Database: Loaded] flat room data loaded (880 count)
+[11:24:33] *** [Database: Loaded] GYM Machine data (0 count).
+[11:24:33] *** [Database: Loaded] GYM data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:29:26] 
+[11:29:26] Server Plugins
+[11:29:26] --------------
+[11:29:26]  Loading plugin: crashdetect
+[11:29:26]   CrashDetect plugin 4.19.4
+[11:29:26]   Loaded.
+[11:29:26]  Loading plugin: gvar
+[11:29:26] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[11:29:26]   Loaded.
+[11:29:26]  Loading plugin: pawncmd
+[11:29:26] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[11:29:26]   Loaded.
+[11:29:26]  Loading plugin: streamer
+[11:29:26] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:29:26]   Loaded.
+[11:29:26]  Loading plugin: timerfix
+[11:29:26]   >> TimerFix v1.7 successfully loaded.
+[11:29:26]   Loaded.
+[11:29:26]  Loading plugin: sscanf
+[11:29:26] 
+
+[11:29:26]  ===============================
+
+[11:29:26]       sscanf plugin loaded.     
+
+[11:29:26]          Version:  2.8.3        
+
+[11:29:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:29:26]  ===============================
+
+[11:29:26]   Loaded.
+[11:29:26]  Loading plugin: mysql
+[11:29:26]  >> plugin.mysql: R41-4 successfully loaded.
+[11:29:26]   Loaded.
+[11:29:26]  Loading plugin: samp-compat
+[11:29:26]   -- samp-compat for 0.3.7-R2 initialized
+[11:29:26]   Loaded.
+[11:29:26]  Loading plugin: CTime
+[11:29:26]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[11:29:26]   Loaded.
+[11:29:26]  Loading plugin: discord-connector
+[11:29:27]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[11:29:27]   Loaded.
+[11:29:27]  Loaded 10 plugins.
+
+[11:29:27] 
+[11:29:27] Ban list
+[11:29:27] --------
+[11:29:27]  Loaded: samp.ban
+[11:29:27] 
+[11:29:27] 
+[11:29:27] Filterscripts
+[11:29:27] ---------------
+[11:29:27]   Loading filterscript 'Buttons.amx'...
+[11:29:27]   Loaded 1 filterscripts.
+
+[11:29:28]  
+[11:29:28]  
+[11:29:28]  
+[11:29:28]  ======================================= 
+[11:29:28]  |                                     | 
+[11:29:28]  |        YSI version 4.00.0001        | 
+[11:29:28]  |        By Alex "Y_Less" Cole        | 
+[11:29:28]  |                                     | 
+[11:29:28]  ======================================= 
+[11:29:28]  
+[11:29:34] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[11:29:34] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[11:29:36] MySQL connection is successful.
+[11:29:36] weburl = "www.sa-mp.com"  (string)
+[11:29:36] [Object] Number of Dynamic objects loaded: 9343
+[11:29:36] [plugin.timerfix] Anti-DDoS: Function was not found.
+[11:29:36] Number of vehicle models: 26
+[11:29:37] *** [Database: Loaded] Door data (28 count).
+[11:29:37] *** [Database: Loaded] family data (1 count).
+[11:29:38] *** [Database: Loaded] house data (218 count).
+[11:29:38] *** [Database: Loaded] bisnis data (25 count).
+[11:29:38] *** [Database: Loaded] gas station data (4 count).
+[11:29:38] *** [Database: Loaded] actor data (1 count).
+[11:29:38] *** [Database: Loaded] ATM data (9 count).
+[11:29:39] *** [Database: Loaded] Gate data (1 count).
+[11:29:39] *** [Database: Loaded] tree data (12 count).
+[11:29:40] *** [Database: Loaded] dealership data (1 count).
+[11:29:40] *** [Database: Loaded] rent data (1 count).
+[11:29:40] *** [Database: Loaded] garage data (1 count).
+[11:29:40] *** [Database: Loaded] object data (0 count).
+[11:29:41] *** [Database: Loaded] furnstore data (4 count).
+[11:29:41] *** [Database: Loaded] furnobject data (98 count).
+[11:29:41] *** [Database: Loaded] flat data loaded (57 count)
+[11:29:42] *** [Database: Loaded] flat room data loaded (880 count)
+[11:29:42] *** [Database: Loaded] GYM Machine data (0 count).
+[11:29:42] *** [Database: Loaded] GYM data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:25:00] 
+[17:25:00] Server Plugins
+[17:25:00] --------------
+[17:25:00]  Loading plugin: crashdetect
+[17:25:00]   CrashDetect plugin 4.19.4
+[17:25:00]   Loaded.
+[17:25:00]  Loading plugin: gvar
+[17:25:00] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[17:25:00]   Loaded.
+[17:25:00]  Loading plugin: pawncmd
+[17:25:00] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[17:25:00]   Loaded.
+[17:25:00]  Loading plugin: streamer
+[17:25:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:25:00]   Loaded.
+[17:25:00]  Loading plugin: timerfix
+[17:25:01]   >> TimerFix v1.7 successfully loaded.
+[17:25:01]   Loaded.
+[17:25:01]  Loading plugin: sscanf
+[17:25:01] 
+
+[17:25:01]  ===============================
+
+[17:25:01]       sscanf plugin loaded.     
+
+[17:25:01]          Version:  2.8.3        
+
+[17:25:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:25:01]  ===============================
+
+[17:25:01]   Loaded.
+[17:25:01]  Loading plugin: mysql
+[17:25:01]  >> plugin.mysql: R41-4 successfully loaded.
+[17:25:01]   Loaded.
+[17:25:01]  Loading plugin: samp-compat
+[17:25:01]   -- samp-compat for 0.3.7-R2 initialized
+[17:25:01]   Loaded.
+[17:25:01]  Loading plugin: CTime
+[17:25:01]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[17:25:01]   Loaded.
+[17:25:01]  Loading plugin: discord-connector
+[17:25:02]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[17:25:02]   Loaded.
+[17:25:02]  Loaded 10 plugins.
+
+[17:25:02] 
+[17:25:02] Ban list
+[17:25:02] --------
+[17:25:02]  Loaded: samp.ban
+[17:25:02] 
+[17:25:02] 
+[17:25:02] Filterscripts
+[17:25:02] ---------------
+[17:25:02]   Loading filterscript 'Buttons.amx'...
+[17:25:02]   Loaded 1 filterscripts.
+
+[17:25:03]  
+[17:25:03]  
+[17:25:03]  
+[17:25:03]  ======================================= 
+[17:25:03]  |                                     | 
+[17:25:03]  |        YSI version 4.00.0001        | 
+[17:25:03]  |        By Alex "Y_Less" Cole        | 
+[17:25:03]  |                                     | 
+[17:25:03]  ======================================= 
+[17:25:03]  
+[17:25:09] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[17:25:09] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[17:25:11] MySQL connection failed. Server is shutting down.
+[17:25:11] Number of vehicle models: 0
+[17:25:11] --- Server Shutting Down.
+[17:25:11] [ADM] Info: Unload 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[17:25:11] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[17:25:11] 
+--------------------------------------
+[17:25:11] ./SERVER DIMATIKAN / DIRESTART
+[17:25:11] [Gas Station] Number of Saved: 0
+[17:25:11] [Farmer Plant] Number of Saved: 0
+[17:25:11] 
+
+*** GVar Plugin v1.3 by Incognito unloaded ***
+
+[17:25:11] [Pawn.CMD] plugin v3.3.2 by urShadow unloaded
+[17:25:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[17:25:11] [plugin.timerfix] Plugin successfully unloaded!
+[17:25:11] 
+
+[17:25:11]  ===============================
+
+[17:25:11]      sscanf plugin unloaded.    
+
+[17:25:11]  ===============================
+
+[17:25:11] plugin.mysql: Unloading plugin...
+[17:25:11] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:32:08] 
+[17:32:08] Server Plugins
+[17:32:08] --------------
+[17:32:08]  Loading plugin: crashdetect
+[17:32:08]   CrashDetect plugin 4.19.4
+[17:32:08]   Loaded.
+[17:32:08]  Loading plugin: gvar
+[17:32:08] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[17:32:08]   Loaded.
+[17:32:08]  Loading plugin: pawncmd
+[17:32:08] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[17:32:08]   Loaded.
+[17:32:08]  Loading plugin: streamer
+[17:32:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:32:08]   Loaded.
+[17:32:08]  Loading plugin: timerfix
+[17:32:08]   >> TimerFix v1.7 successfully loaded.
+[17:32:08]   Loaded.
+[17:32:08]  Loading plugin: sscanf
+[17:32:08] 
+
+[17:32:08]  ===============================
+
+[17:32:08]       sscanf plugin loaded.     
+
+[17:32:08]          Version:  2.8.3        
+
+[17:32:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:32:08]  ===============================
+
+[17:32:08]   Loaded.
+[17:32:08]  Loading plugin: mysql
+[17:32:08]  >> plugin.mysql: R41-4 successfully loaded.
+[17:32:08]   Loaded.
+[17:32:08]  Loading plugin: samp-compat
+[17:32:08]   -- samp-compat for 0.3.7-R2 initialized
+[17:32:08]   Loaded.
+[17:32:08]  Loading plugin: CTime
+[17:32:08]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[17:32:08]   Loaded.
+[17:32:08]  Loading plugin: discord-connector
+[17:32:10]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[17:32:10]   Loaded.
+[17:32:10]  Loaded 10 plugins.
+
+[17:32:10] 
+[17:32:10] Ban list
+[17:32:10] --------
+[17:32:10]  Loaded: samp.ban
+[17:32:10] 
+[17:32:10] 
+[17:32:10] Filterscripts
+[17:32:10] ---------------
+[17:32:10]   Loading filterscript 'Buttons.amx'...
+[17:32:10]   Loaded 1 filterscripts.
+
+[17:32:11]  
+[17:32:11]  
+[17:32:11]  
+[17:32:11]  ======================================= 
+[17:32:11]  |                                     | 
+[17:32:11]  |        YSI version 4.00.0001        | 
+[17:32:11]  |        By Alex "Y_Less" Cole        | 
+[17:32:11]  |                                     | 
+[17:32:11]  ======================================= 
+[17:32:11]  
+[17:32:16] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[17:32:16] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[17:32:16] MySQL connection is successful.
+[17:32:16] weburl = "www.sa-mp.com"  (string)
+[17:32:16] [Object] Number of Dynamic objects loaded: 9343
+[17:32:16] [plugin.timerfix] Anti-DDoS: Function was not found.
+[17:32:16] Number of vehicle models: 26
+[17:32:16] *** [Database: Loaded] Door data (28 count).
+[17:32:16] *** [Database: Loaded] family data (1 count).
+[17:32:17] *** [Database: Loaded] house data (218 count).
+[17:32:17] *** [Database: Loaded] bisnis data (25 count).
+[17:32:17] *** [Database: Loaded] gas station data (4 count).
+[17:32:17] *** [Database: Loaded] actor data (1 count).
+[17:32:17] *** [Database: Loaded] ATM data (9 count).
+[17:32:17] *** [Database: Loaded] Gate data (1 count).
+[17:32:17] *** [Database: Loaded] tree data (12 count).
+[17:32:17] *** [Database: Loaded] dealership data (1 count).
+[17:32:17] *** [Database: Loaded] rent data (1 count).
+[17:32:17] *** [Database: Loaded] garage data (1 count).
+[17:32:17] *** [Database: Loaded] object data (0 count).
+[17:32:17] *** [Database: Loaded] furnstore data (4 count).
+[17:32:17] *** [Database: Loaded] furnobject data (98 count).
+[17:32:17] *** [Database: Loaded] flat data loaded (57 count)
+[17:32:17] *** [Database: Loaded] flat room data loaded (880 count)
+[17:32:17] *** [Database: Loaded] GYM Machine data (0 count).
+[17:32:17] *** [Database: Loaded] GYM data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:19:54] 
+[18:19:54] Server Plugins
+[18:19:54] --------------
+[18:19:54]  Loading plugin: crashdetect
+[18:19:54]   CrashDetect plugin 4.19.4
+[18:19:54]   Loaded.
+[18:19:54]  Loading plugin: gvar
+[18:19:54] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:19:54]   Loaded.
+[18:19:54]  Loading plugin: pawncmd
+[18:19:54] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[18:19:54]   Loaded.
+[18:19:54]  Loading plugin: streamer
+[18:19:54] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:19:54]   Loaded.
+[18:19:54]  Loading plugin: timerfix
+[18:19:54]   >> TimerFix v1.7 successfully loaded.
+[18:19:54]   Loaded.
+[18:19:54]  Loading plugin: sscanf
+[18:19:54] 
+
+[18:19:54]  ===============================
+
+[18:19:54]       sscanf plugin loaded.     
+
+[18:19:54]          Version:  2.8.3        
+
+[18:19:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:19:54]  ===============================
+
+[18:19:54]   Loaded.
+[18:19:54]  Loading plugin: mysql
+[18:19:54]  >> plugin.mysql: R41-4 successfully loaded.
+[18:19:54]   Loaded.
+[18:19:54]  Loading plugin: samp-compat
+[18:19:54]   -- samp-compat for 0.3.7-R2 initialized
+[18:19:54]   Loaded.
+[18:19:54]  Loading plugin: CTime
+[18:19:54]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[18:19:54]   Loaded.
+[18:19:54]  Loading plugin: discord-connector
+[18:19:56]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[18:19:56]   Loaded.
+[18:19:56]  Loaded 10 plugins.
+
+[18:19:56] 
+[18:19:56] Ban list
+[18:19:56] --------
+[18:19:56]  Loaded: samp.ban
+[18:19:56] 
+[18:19:56] 
+[18:19:56] Filterscripts
+[18:19:56] ---------------
+[18:19:56]   Loading filterscript 'Buttons.amx'...
+[18:19:56]   Loaded 1 filterscripts.
+
+[18:19:59]  
+[18:19:59]  
+[18:19:59]  
+[18:19:59]  ======================================= 
+[18:19:59]  |                                     | 
+[18:19:59]  |        YSI version 4.00.0001        | 
+[18:19:59]  |        By Alex "Y_Less" Cole        | 
+[18:19:59]  |                                     | 
+[18:19:59]  ======================================= 
+[18:19:59]  
+[18:20:07] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[18:20:07] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[18:20:07] MySQL connection is successful.
+[18:20:07] weburl = "www.sa-mp.com"  (string)
+[18:20:07] [Object] Number of Dynamic objects loaded: 9343
+[18:20:07] [plugin.timerfix] Anti-DDoS: Function was not found.
+[18:20:07] Number of vehicle models: 26
+[18:20:07] *** [Database: Loaded] Door data (28 count).
+[18:20:07] *** [Database: Loaded] family data (1 count).
+[18:20:07] *** [Database: Loaded] house data (218 count).
+[18:20:07] *** [Database: Loaded] bisnis data (25 count).
+[18:20:07] *** [Database: Loaded] gas station data (4 count).
+[18:20:07] *** [Database: Loaded] actor data (1 count).
+[18:20:07] *** [Database: Loaded] ATM data (9 count).
+[18:20:07] *** [Database: Loaded] Gate data (1 count).
+[18:20:07] *** [Database: Loaded] tree data (12 count).
+[18:20:07] *** [Database: Loaded] dealership data (1 count).
+[18:20:07] *** [Database: Loaded] rent data (1 count).
+[18:20:07] *** [Database: Loaded] garage data (1 count).
+[18:20:07] *** [Database: Loaded] object data (0 count).
+[18:20:07] *** [Database: Loaded] furnstore data (4 count).
+[18:20:07] *** [Database: Loaded] furnobject data (98 count).
+[18:20:07] *** [Database: Loaded] flat data loaded (57 count)
+[18:20:08] *** [Database: Loaded] flat room data loaded (880 count)
+[18:20:08] *** [Database: Loaded] GYM Machine data (0 count).
+[18:20:08] *** [Database: Loaded] GYM data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:24:13] 
+[18:24:13] Server Plugins
+[18:24:13] --------------
+[18:24:13]  Loading plugin: crashdetect
+[18:24:13]   CrashDetect plugin 4.19.4
+[18:24:13]   Loaded.
+[18:24:13]  Loading plugin: gvar
+[18:24:13] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:24:13]   Loaded.
+[18:24:13]  Loading plugin: pawncmd
+[18:24:13] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[18:24:13]   Loaded.
+[18:24:13]  Loading plugin: streamer
+[18:24:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:24:13]   Loaded.
+[18:24:13]  Loading plugin: timerfix
+[18:24:13]   >> TimerFix v1.7 successfully loaded.
+[18:24:13]   Loaded.
+[18:24:13]  Loading plugin: sscanf
+[18:24:13] 
+
+[18:24:13]  ===============================
+
+[18:24:13]       sscanf plugin loaded.     
+
+[18:24:13]          Version:  2.8.3        
+
+[18:24:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:24:13]  ===============================
+
+[18:24:13]   Loaded.
+[18:24:13]  Loading plugin: mysql
+[18:24:13]  >> plugin.mysql: R41-4 successfully loaded.
+[18:24:13]   Loaded.
+[18:24:13]  Loading plugin: samp-compat
+[18:24:13]   -- samp-compat for 0.3.7-R2 initialized
+[18:24:13]   Loaded.
+[18:24:13]  Loading plugin: CTime
+[18:24:13]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[18:24:13]   Loaded.
+[18:24:13]  Loading plugin: discord-connector
+[18:24:15]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[18:24:15]   Loaded.
+[18:24:15]  Loaded 10 plugins.
+
+[18:24:15] 
+[18:24:15] Ban list
+[18:24:15] --------
+[18:24:15]  Loaded: samp.ban
+[18:24:15] 
+[18:24:15] 
+[18:24:15] Filterscripts
+[18:24:15] ---------------
+[18:24:15]   Loading filterscript 'Buttons.amx'...
+[18:24:15]   Loaded 1 filterscripts.
+
+[18:24:16]  
+[18:24:16]  
+[18:24:16]  
+[18:24:16]  ======================================= 
+[18:24:16]  |                                     | 
+[18:24:16]  |        YSI version 4.00.0001        | 
+[18:24:16]  |        By Alex "Y_Less" Cole        | 
+[18:24:16]  |                                     | 
+[18:24:16]  ======================================= 
+[18:24:16]  
+[18:24:21] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[18:24:21] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[18:24:21] MySQL connection is successful.
+[18:24:21] weburl = "www.sa-mp.com"  (string)
+[18:24:21] [Object] Number of Dynamic objects loaded: 9343
+[18:24:21] [plugin.timerfix] Anti-DDoS: Function was not found.
+[18:24:21] Number of vehicle models: 26
+[18:24:21] *** [Database: Loaded] Door data (28 count).
+[18:24:21] *** [Database: Loaded] family data (1 count).
+[18:24:21] *** [Database: Loaded] house data (218 count).
+[18:24:21] *** [Database: Loaded] bisnis data (25 count).
+[18:24:21] *** [Database: Loaded] gas station data (4 count).
+[18:24:21] *** [Database: Loaded] actor data (1 count).
+[18:24:21] *** [Database: Loaded] ATM data (9 count).
+[18:24:21] *** [Database: Loaded] Gate data (1 count).
+[18:24:21] *** [Database: Loaded] tree data (12 count).
+[18:24:21] *** [Database: Loaded] dealership data (1 count).
+[18:24:21] *** [Database: Loaded] rent data (1 count).
+[18:24:21] *** [Database: Loaded] garage data (1 count).
+[18:24:21] *** [Database: Loaded] object data (0 count).
+[18:24:21] *** [Database: Loaded] furnstore data (4 count).
+[18:24:21] *** [Database: Loaded] furnobject data (98 count).
+[18:24:21] *** [Database: Loaded] flat data loaded (57 count)
+[18:24:22] *** [Database: Loaded] flat room data loaded (880 count)
+[18:24:22] *** [Database: Loaded] GYM Machine data (0 count).
+[18:24:22] *** [Database: Loaded] GYM data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:40:10] 
+[18:40:10] Server Plugins
+[18:40:10] --------------
+[18:40:10]  Loading plugin: crashdetect
+[18:40:10]   CrashDetect plugin 4.19.4
+[18:40:10]   Loaded.
+[18:40:10]  Loading plugin: gvar
+[18:40:10] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:40:10]   Loaded.
+[18:40:10]  Loading plugin: pawncmd
+[18:40:10] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[18:40:10]   Loaded.
+[18:40:10]  Loading plugin: streamer
+[18:40:10] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:40:10]   Loaded.
+[18:40:10]  Loading plugin: timerfix
+[18:40:10]   >> TimerFix v1.7 successfully loaded.
+[18:40:10]   Loaded.
+[18:40:10]  Loading plugin: sscanf
+[18:40:10] 
+
+[18:40:10]  ===============================
+
+[18:40:10]       sscanf plugin loaded.     
+
+[18:40:10]          Version:  2.8.3        
+
+[18:40:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:40:10]  ===============================
+
+[18:40:10]   Loaded.
+[18:40:10]  Loading plugin: mysql
+[18:40:10]  >> plugin.mysql: R41-4 successfully loaded.
+[18:40:10]   Loaded.
+[18:40:10]  Loading plugin: samp-compat
+[18:40:10]   -- samp-compat for 0.3.7-R2 initialized
+[18:40:10]   Loaded.
+[18:40:10]  Loading plugin: CTime
+[18:40:10]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[18:40:10]   Loaded.
+[18:40:10]  Loading plugin: discord-connector
+[18:40:11]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[18:40:11]   Loaded.
+[18:40:11]  Loaded 10 plugins.
+
+[18:40:11] 
+[18:40:11] Ban list
+[18:40:11] --------
+[18:40:11]  Loaded: samp.ban
+[18:40:11] 
+[18:40:12] 
+[18:40:12] Filterscripts
+[18:40:12] ---------------
+[18:40:12]   Loading filterscript 'Buttons.amx'...
+[18:40:12]   Loaded 1 filterscripts.
+
+[18:40:13]  
+[18:40:13]  
+[18:40:13]  
+[18:40:13]  ======================================= 
+[18:40:13]  |                                     | 
+[18:40:13]  |        YSI version 4.00.0001        | 
+[18:40:13]  |        By Alex "Y_Less" Cole        | 
+[18:40:13]  |                                     | 
+[18:40:13]  ======================================= 
+[18:40:13]  
+[18:40:20] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[18:40:20] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[18:40:20] MySQL connection is successful.
+[18:40:20] weburl = "www.sa-mp.com"  (string)
+[18:40:20] [Object] Number of Dynamic objects loaded: 9343
+[18:40:20] [plugin.timerfix] Anti-DDoS: Function was not found.
+[18:40:20] Number of vehicle models: 26
+[18:40:20] *** [Database: Loaded] Door data (28 count).
+[18:40:20] *** [Database: Loaded] family data (1 count).
+[18:40:20] *** [Database: Loaded] house data (218 count).
+[18:40:20] *** [Database: Loaded] bisnis data (25 count).
+[18:40:20] *** [Database: Loaded] gas station data (4 count).
+[18:40:20] *** [Database: Loaded] actor data (1 count).
+[18:40:20] *** [Database: Loaded] ATM data (9 count).
+[18:40:20] *** [Database: Loaded] Gate data (1 count).
+[18:40:20] *** [Database: Loaded] tree data (12 count).
+[18:40:20] *** [Database: Loaded] dealership data (1 count).
+[18:40:20] *** [Database: Loaded] rent data (1 count).
+[18:40:20] *** [Database: Loaded] garage data (1 count).
+[18:40:20] *** [Database: Loaded] object data (0 count).
+[18:40:20] *** [Database: Loaded] furnstore data (4 count).
+[18:40:20] *** [Database: Loaded] furnobject data (98 count).
+[18:40:20] *** [Database: Loaded] flat data loaded (57 count)
+[18:40:21] *** [Database: Loaded] flat room data loaded (880 count)
+[18:40:21] *** [Database: Loaded] GYM Machine data (0 count).
+[18:40:21] *** [Database: Loaded] GYM data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:21:23] 
+[18:21:23] Server Plugins
+[18:21:23] --------------
+[18:21:23]  Loading plugin: crashdetect
+[18:21:23]   CrashDetect plugin 4.19.4
+[18:21:23]   Loaded.
+[18:21:23]  Loading plugin: gvar
+[18:21:23] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:21:23]   Loaded.
+[18:21:23]  Loading plugin: pawncmd
+[18:21:23] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[18:21:23]   Loaded.
+[18:21:23]  Loading plugin: streamer
+[18:21:24] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:21:24]   Loaded.
+[18:21:24]  Loading plugin: timerfix
+[18:21:24]   >> TimerFix v1.7 successfully loaded.
+[18:21:24]   Loaded.
+[18:21:24]  Loading plugin: sscanf
+[18:21:24] 
+
+[18:21:24]  ===============================
+
+[18:21:24]       sscanf plugin loaded.     
+
+[18:21:24]          Version:  2.8.3        
+
+[18:21:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:21:24]  ===============================
+
+[18:21:24]   Loaded.
+[18:21:24]  Loading plugin: mysql
+[18:21:24]  >> plugin.mysql: R41-4 successfully loaded.
+[18:21:24]   Loaded.
+[18:21:24]  Loading plugin: samp-compat
+[18:21:24]   -- samp-compat for 0.3.7-R2 initialized
+[18:21:24]   Loaded.
+[18:21:24]  Loading plugin: CTime
+[18:21:24]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[18:21:24]   Loaded.
+[18:21:24]  Loading plugin: discord-connector
+[18:21:25]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[18:21:25]   Loaded.
+[18:21:25]  Loaded 10 plugins.
+
+[18:21:25] 
+[18:21:25] Ban list
+[18:21:25] --------
+[18:21:25]  Loaded: samp.ban
+[18:21:25] 
+[18:21:25] 
+[18:21:25] Filterscripts
+[18:21:25] ---------------
+[18:21:25]   Loading filterscript 'Buttons.amx'...
+[18:21:26]   Loaded 1 filterscripts.
+
+[18:21:26]  
+[18:21:26]  
+[18:21:26]  
+[18:21:26]  ======================================= 
+[18:21:26]  |                                     | 
+[18:21:26]  |        YSI version 4.00.0001        | 
+[18:21:26]  |        By Alex "Y_Less" Cole        | 
+[18:21:26]  |                                     | 
+[18:21:26]  ======================================= 
+[18:21:26]  
+[18:21:31] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[18:21:31] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[18:21:33] MySQL connection is successful.
+[18:21:33] weburl = "www.sa-mp.com"  (string)
+[18:21:33] [Object] Number of Dynamic objects loaded: 9343
+[18:21:33] [plugin.timerfix] Anti-DDoS: Function was not found.
+[18:21:33] Number of vehicle models: 26
+[18:21:33] *** [Database: Loaded] Door data (28 count).
+[18:21:34] *** [Database: Loaded] family data (1 count).
+[18:21:34] *** [Database: Loaded] house data (218 count).
+[18:21:34] *** [Database: Loaded] bisnis data (25 count).
+[18:21:35] *** [Database: Loaded] gas station data (4 count).
+[18:21:35] *** [Database: Loaded] actor data (1 count).
+[18:21:35] *** [Database: Loaded] ATM data (9 count).
+[18:21:35] *** [Database: Loaded] Gate data (1 count).
+[18:21:35] *** [Database: Loaded] tree data (12 count).
+[18:21:36] *** [Database: Loaded] dealership data (1 count).
+[18:21:36] *** [Database: Loaded] rent data (1 count).
+[18:21:37] *** [Database: Loaded] garage data (1 count).
+[18:21:37] *** [Database: Loaded] object data (0 count).
+[18:21:37] *** [Database: Loaded] furnstore data (4 count).
+[18:21:37] *** [Database: Loaded] furnobject data (98 count).
+[18:21:38] *** [Database: Loaded] flat data loaded (57 count)
+[18:21:38] *** [Database: Loaded] flat room data loaded (880 count)
+[18:21:38] *** [Database: Loaded] GYM Machine data (0 count).
+[18:21:38] *** [Database: Loaded] GYM data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:45:08] 
+[21:45:08] Server Plugins
+[21:45:08] --------------
+[21:45:08]  Loading plugin: crashdetect
+[21:45:08]   CrashDetect plugin 4.19.4
+[21:45:08]   Loaded.
+[21:45:08]  Loading plugin: gvar
+[21:45:08] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[21:45:08]   Loaded.
+[21:45:08]  Loading plugin: pawncmd
+[21:45:08] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[21:45:08]   Loaded.
+[21:45:08]  Loading plugin: streamer
+[21:45:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:45:08]   Loaded.
+[21:45:08]  Loading plugin: timerfix
+[21:45:08]   >> TimerFix v1.7 successfully loaded.
+[21:45:08]   Loaded.
+[21:45:08]  Loading plugin: sscanf
+[21:45:08] 
+
+[21:45:08]  ===============================
+
+[21:45:08]       sscanf plugin loaded.     
+
+[21:45:08]          Version:  2.8.3        
+
+[21:45:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:45:08]  ===============================
+
+[21:45:08]   Loaded.
+[21:45:08]  Loading plugin: mysql
+[21:45:08]  >> plugin.mysql: R41-4 successfully loaded.
+[21:45:08]   Loaded.
+[21:45:08]  Loading plugin: samp-compat
+[21:45:08]   -- samp-compat for 0.3.7-R2 initialized
+[21:45:08]   Loaded.
+[21:45:08]  Loading plugin: CTime
+[21:45:08]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[21:45:08]   Loaded.
+[21:45:08]  Loading plugin: discord-connector
+[21:45:10]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[21:45:10]   Loaded.
+[21:45:10]  Loaded 10 plugins.
+
+[21:45:10] 
+[21:45:10] Ban list
+[21:45:10] --------
+[21:45:10]  Loaded: samp.ban
+[21:45:10] 
+[21:45:10] 
+[21:45:10] Filterscripts
+[21:45:10] ---------------
+[21:45:10]   Loading filterscript 'Buttons.amx'...
+[21:45:10]   Loaded 1 filterscripts.
+
+[21:45:12]  
+[21:45:12]  
+[21:45:12]  
+[21:45:12]  ======================================= 
+[21:45:12]  |                                     | 
+[21:45:12]  |        YSI version 4.00.0001        | 
+[21:45:12]  |        By Alex "Y_Less" Cole        | 
+[21:45:12]  |                                     | 
+[21:45:12]  ======================================= 
+[21:45:12]  
+[21:45:15] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[21:45:15] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[21:45:18] MySQL connection is successful.
+[21:45:18] weburl = "www.sa-mp.com"  (string)
+[21:45:18] [Object] Number of Dynamic objects loaded: 9343
+[21:45:18] [plugin.timerfix] Anti-DDoS: Function was not found.
+[21:45:18] Number of vehicle models: 26
+[21:45:18] *** [Database: Loaded] Door data (28 count).
+[21:45:18] *** [Database: Loaded] family data (1 count).
+[21:45:19] *** [Database: Loaded] house data (218 count).
+[21:45:19] *** [Database: Loaded] bisnis data (25 count).
+[21:45:19] *** [Database: Loaded] gas station data (4 count).
+[21:45:19] *** [Database: Loaded] actor data (1 count).
+[21:45:19] *** [Database: Loaded] ATM data (9 count).
+[21:45:20] *** [Database: Loaded] Gate data (1 count).
+[21:45:20] *** [Database: Loaded] tree data (12 count).
+[21:45:21] *** [Database: Loaded] dealership data (1 count).
+[21:45:21] *** [Database: Loaded] rent data (1 count).
+[21:45:21] *** [Database: Loaded] garage data (1 count).
+[21:45:21] *** [Database: Loaded] object data (0 count).
+[21:45:22] *** [Database: Loaded] furnstore data (4 count).
+[21:45:22] *** [Database: Loaded] furnobject data (98 count).
+[21:45:22] *** [Database: Loaded] flat data loaded (57 count)
+[21:45:22] *** [Database: Loaded] flat room data loaded (880 count)
+[21:45:23] *** [Database: Loaded] GYM Machine data (0 count).
+[21:45:23] *** [Database: Loaded] GYM data (1 count).
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:47:54] 
+[21:47:54] Server Plugins
+[21:47:54] --------------
+[21:47:54]  Loading plugin: crashdetect
+[21:47:54]   CrashDetect plugin 4.19.4
+[21:47:54]   Loaded.
+[21:47:54]  Loading plugin: gvar
+[21:47:54] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[21:47:54]   Loaded.
+[21:47:54]  Loading plugin: pawncmd
+[21:47:54] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[21:47:54]   Loaded.
+[21:47:54]  Loading plugin: streamer
+[21:47:54] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:47:54]   Loaded.
+[21:47:54]  Loading plugin: timerfix
+[21:47:54]   >> TimerFix v1.7 successfully loaded.
+[21:47:54]   Loaded.
+[21:47:54]  Loading plugin: sscanf
+[21:47:54] 
+
+[21:47:54]  ===============================
+
+[21:47:54]       sscanf plugin loaded.     
+
+[21:47:54]          Version:  2.8.3        
+
+[21:47:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:47:54]  ===============================
+
+[21:47:54]   Loaded.
+[21:47:54]  Loading plugin: mysql
+[21:47:54]  >> plugin.mysql: R41-4 successfully loaded.
+[21:47:54]   Loaded.
+[21:47:54]  Loading plugin: samp-compat
+[21:47:54]   -- samp-compat for 0.3.7-R2 initialized
+[21:47:54]   Loaded.
+[21:47:54]  Loading plugin: CTime
+[21:47:54]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[21:47:54]   Loaded.
+[21:47:54]  Loading plugin: discord-connector
+[21:48:04]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[21:48:04]   Loaded.
+[21:48:04]  Loaded 10 plugins.
+
+[21:48:04] 
+[21:48:04] Ban list
+[21:48:04] --------
+[21:48:04]  Loaded: samp.ban
+[21:48:04] 
+[21:48:04] 
+[21:48:04] Filterscripts
+[21:48:04] ---------------
+[21:48:04]   Loading filterscript 'Buttons.amx'...
+[21:48:04]   Loaded 1 filterscripts.
+
+[21:48:05]  
+[21:48:05]  
+[21:48:05]  
+[21:48:05]  ======================================= 
+[21:48:05]  |                                     | 
+[21:48:05]  |        YSI version 4.00.0001        | 
+[21:48:05]  |        By Alex "Y_Less" Cole        | 
+[21:48:05]  |                                     | 
+[21:48:05]  ======================================= 
+[21:48:05]  
+[21:48:14] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[21:48:14] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan
+[21:48:16] MySQL connection is successful.
+[21:48:16] weburl = "www.sa-mp.com"  (string)
+[21:48:16] [Object] Number of Dynamic objects loaded: 9343
+[21:48:16] [plugin.timerfix] Anti-DDoS: Function was not found.
+[21:48:16] Number of vehicle models: 26
+[21:48:17] *** [Database: Loaded] Door data (28 count).
+[21:48:17] *** [Database: Loaded] family data (1 count).
+[21:48:18] *** [Database: Loaded] house data (218 count).
+[21:48:18] *** [Database: Loaded] bisnis data (25 count).
+[21:48:18] *** [Database: Loaded] gas station data (4 count).
+[21:48:18] *** [Database: Loaded] actor data (1 count).
+[21:48:18] *** [Database: Loaded] ATM data (9 count).
+[21:48:19] *** [Database: Loaded] Gate data (1 count).
+[21:48:19] *** [Database: Loaded] tree data (12 count).
+[21:48:20] *** [Database: Loaded] dealership data (1 count).
+[21:48:20] *** [Database: Loaded] rent data (1 count).
+[21:48:20] *** [Database: Loaded] garage data (1 count).
+[21:48:20] *** [Database: Loaded] object data (0 count).
+[21:48:21] *** [Database: Loaded] furnstore data (4 count).
+[21:48:21] *** [Database: Loaded] furnobject data (98 count).
+[21:48:21] *** [Database: Loaded] flat data loaded (57 count)
+[21:48:22] *** [Database: Loaded] flat room data loaded (880 count)
+[21:48:22] *** [Database: Loaded] GYM Machine data (0 count).
+[21:48:22] *** [Database: Loaded] GYM data (1 count).
+[21:49:01] [connection] 192.168.100.100:54875 requests connection cookie.
+[21:49:02] [connection] incoming connection: 192.168.100.100:54875 id: 0
+[21:49:03] [join] Kyle_Garrick has joined the server (0:192.168.100.100)
+[21:50:12] [CMD]: (0) menggunakan CMD 'help' ()
+[21:50:15] [CMD]: (0) menggunakan CMD 'admin' ()
+[21:50:18] [part] Kyle_Garrick has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:38:28] 
+[21:38:28] Server Plugins
+[21:38:28] --------------
+[21:38:28]  Loading plugin: crashdetect
+[21:38:28]   CrashDetect plugin 4.19.4
+[21:38:28]   Loaded.
+[21:38:28]  Loading plugin: gvar
+[21:38:28] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[21:38:28]   Loaded.
+[21:38:28]  Loading plugin: pawncmd
+[21:38:28] [Pawn.CMD] plugin v3.3.2 by urShadow loaded
+[21:38:28]   Loaded.
+[21:38:28]  Loading plugin: streamer
+[21:38:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:38:28]   Loaded.
+[21:38:28]  Loading plugin: timerfix
+[21:38:28]   >> TimerFix v1.7 successfully loaded.
+[21:38:28]   Loaded.
+[21:38:28]  Loading plugin: sscanf
+[21:38:29] 
+
+[21:38:29]  ===============================
+
+[21:38:29]       sscanf plugin loaded.     
+
+[21:38:29]          Version:  2.8.3        
+
+[21:38:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:38:29]  ===============================
+
+[21:38:29]   Loaded.
+[21:38:29]  Loading plugin: mysql
+[21:38:29]  >> plugin.mysql: R41-4 successfully loaded.
+[21:38:29]   Loaded.
+[21:38:29]  Loading plugin: samp-compat
+[21:38:29]   -- samp-compat for 0.3.7-R2 initialized
+[21:38:29]   Loaded.
+[21:38:29]  Loading plugin: CTime
+[21:38:29]  
+ » CTime Library Plugin For Pawn v0.1.0 - Copyright © 2011 RyDeR` 
+ 
+[21:38:29]   Loaded.
+[21:38:29]  Loading plugin: discord-connector
+[21:38:42]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[21:38:42]   Loaded.
+[21:38:42]  Loaded 10 plugins.
+
+[21:38:42] 
+[21:38:42] Ban list
+[21:38:42] --------
+[21:38:42]  Loaded: samp.ban
+[21:38:42] 
+[21:38:42] 
+[21:38:42] Filterscripts
+[21:38:42] ---------------
+[21:38:42]   Loading filterscript 'Buttons.amx'...
+[21:38:43]   Loaded 1 filterscripts.
+
+[21:38:44]  
+[21:38:44]  
+[21:38:44]  
+[21:38:44]  ======================================= 
+[21:38:44]  |                                     | 
+[21:38:44]  |        YSI version 4.00.0001        | 
+[21:38:44]  |        By Alex "Y_Less" Cole        | 
+[21:38:44]  |                                     | 
+[21:38:44]  ======================================= 
+[21:38:44]  
+[21:38:45] [ADM] Info: Load 3DTryg v4.8.6 for SA:MP 0.3.7 by Abyss Morgan
+[21:38:45] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3.7 by Abyss Morgan

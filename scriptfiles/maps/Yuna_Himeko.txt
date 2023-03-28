@@ -1,0 +1,72 @@
+//Map Exported with Texture Studio By: [uL]Pottus, Crayder, Svyatoy, encoder, devhub/////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Map Information////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+	Exported on "2022-11-01 17:30:08" by "Bot"
+	Created by "Bot"
+*/
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Objects////////////////////////////////////////////////////////////////////////////////////////////////////////
+new tmpobjid, object_world = -1, object_int = -1;
+tmpobjid = CreateDynamicObject(19355, 2245.320068, -1645.331176, 14.379214, 0.000000, 0.000000, 75.099990, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2242.228027, -1644.511108, 14.379214, 0.000000, 0.000000, 75.499984, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2246.035156, -1645.521118, 14.379214, 0.000000, 0.000000, 75.099990, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2247.941406, -1644.449707, 14.379214, 0.000000, 0.000000, 164.399887, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2248.782958, -1641.435058, 14.379214, 0.000000, 0.000000, 164.399887, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2249.602050, -1638.498413, 14.379214, 0.000000, 0.000000, 164.399887, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(11432, 2244.167236, -1644.993774, 14.248386, 0.000000, 0.000000, -13.399993, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampwhite", 0x00000000);
+SetDynamicObjectMaterial(tmpobjid, 1, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(18664, 2244.098632, -1645.135009, 18.058958, 0.000000, 0.000000, 77.100006, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterialText(tmpobjid, 0, "{3BBD44}Yuna {FF0000}Himeko", 120, "Arial", 50, 1, 0xFFFFFFFF, 0x00000000, 1);
+tmpobjid = CreateDynamicObject(18664, 2244.098632, -1645.135009, 17.718950, 0.000000, 0.000000, 77.100006, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterialText(tmpobjid, 0, "{3BBD44}ggg{FFFFFF}ggg{FF0000}ggg", 100, "Webdings", 25, 1, 0xFFFFFFFF, 0x00000000, 1);
+tmpobjid = CreateDynamicObject(19355, 2239.295410, -1643.753051, 14.379214, 0.000000, 0.000000, 75.499984, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2238.925292, -1643.656127, 14.379214, 0.000000, 0.000000, 75.499984, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2231.543212, -1640.059204, 14.379214, 0.000000, 0.000000, 158.399932, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2232.687988, -1637.167602, 14.379214, 0.000000, 0.000000, 158.399932, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2233.817871, -1634.312866, 14.379214, 0.000000, 0.000000, 158.399932, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2234.992187, -1631.346557, 14.379214, 0.000000, 0.000000, 158.399932, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2235.545654, -1628.339599, 14.379214, 0.000000, 0.000000, -178.599990, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2235.485839, -1625.889892, 14.379214, 0.000000, 0.000000, -178.599990, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2242.228027, -1644.511108, 15.039215, 0.000000, 0.000000, 75.499984, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2245.152099, -1645.267822, 15.039215, 0.000000, 0.000000, 75.499984, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2246.005126, -1645.489257, 15.039215, 0.000000, 0.000000, 75.499984, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2239.227050, -1643.735595, 15.039215, 0.000000, 0.000000, 75.499984, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2239.042480, -1643.687377, 15.039215, 0.000000, 0.000000, 75.499984, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2247.941406, -1644.449707, 15.019217, 0.000000, 0.000000, 164.399887, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2248.803955, -1641.357666, 15.019217, 0.000000, 0.000000, 164.399887, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+tmpobjid = CreateDynamicObject(19355, 2249.598876, -1638.505615, 15.019217, 0.000000, 0.000000, 164.399887, object_world, object_int, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(tmpobjid, 0, 18996, "mattextures", "sampblack", 0x00000000);
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+tmpobjid = CreateDynamicObject(638, 2242.420654, -1645.044555, 15.119686, 0.000000, 0.000000, 75.199966, object_world, object_int, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(638, 2246.285644, -1646.065917, 15.119686, 0.000000, 0.000000, 75.199966, object_world, object_int, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(1280, 2242.158203, -1636.645141, 15.271873, 0.000000, 0.000000, 69.599990, object_world, object_int, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(1281, 2242.958007, -1642.225219, 15.332834, 0.000000, 0.000000, -19.600002, object_world, object_int, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(1432, 2246.624755, -1639.592041, 14.977407, 0.000000, 0.000000, 0.000000, object_world, object_int, -1, 300.00, 300.00); 
+tmpobjid = CreateDynamicObject(638, 2238.588378, -1644.032104, 15.119686, 0.000000, 0.000000, 75.199966, object_world, object_int, -1, 300.00, 300.00); 

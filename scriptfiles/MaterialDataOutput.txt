@@ -1,0 +1,4 @@
+[quntul]
+SetObjectMaterialText(objectid, "QUNTUL", 0, OBJECT_MATERIAL_SIZE_256x128, "Arial", 40, 1, -256, -16777216, 1);
+
+
